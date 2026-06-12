@@ -1,12 +1,31 @@
-## Hi there 👋
+# I ❤️ Data
 
-<!--
+Advancing health data literacy, access, and person-centered engagement.
 
-**Here are some ideas to get you started:**
+I ❤️ Data is dedicated to empowering individuals to understand, access, and use their health information to participate more fully in their care.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We believe access alone is not enough — understanding, trust, and action are essential.
+
+## Focus Areas
+
+* Health Data Literacy
+* Patient Empowerment
+* Data Access & Comprehension
+* Person-Centered Care
+* Digital Navigation
+* Privacy & Trust
+* Health Information Rights
+* Community Education
+
+## Initiatives
+
+* Education & Awareness
+* Resource Development
+* Patient Engagement
+* Research & Evaluation
+* Community Partnerships
+* Data Accessibility
+
+## Learn More
+
+Website: https://www.iheartdata.org
