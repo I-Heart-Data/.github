@@ -1,4 +1,4 @@
-#I ❤️ Data
+# I ❤️ Data
 
 Advancing health data literacy, access, and person-centered engagement.
 
