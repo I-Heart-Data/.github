@@ -13,12 +13,12 @@ Healthcare has made significant progress in improving access to information thro
 Yet access alone has not translated into understanding.
 
   ### Health Literacy Snapshot (U.S.)
-  * Only ~12% of U.S. adults demonstrate proficient health literacy.
-  * ~53% demonstrate intermediate health literacy.
-  * ~35–36% demonstrate basic or below-basic health literacy.
-  * Nearly 9 out of 10 adults struggle with health information when it is unfamiliar, complex, or filled with jargon.
+  * Only ~12% of U.S. adults demonstrate proficient health literacy. [Source: PMC](https://mrctcenter.org/health-literacy/introduction/health-literacy-overview/)
+  * ~53% demonstrate intermediate health literacy. [Source: PMC](https://mrctcenter.org/health-literacy/introduction/health-literacy-overview/)
+  * ~35–36% demonstrate basic or below-basic health literacy. [Source: Brigham Trials Center](https://mrctcenter.org/health-literacy/introduction/health-literacy-overview/)
+  * Nearly 9 out of 10 adults struggle with health information when it is unfamiliar, complex, or filled with jargon. [Source: CDC](https://www.cdc.gov/health-literacy/php/about/tell-others.html#:~:text=Nearly%20nine%20out%20of,familiar%20or%20complex%20terms.) 
 
-Healthy People 2030 reframed the question from:
+[Healthy People 2030](https://odphp.health.gov/healthypeople/priority-areas/health-literacy-healthy-people-2030?) reframed the question from:
 
 “Can people understand information?”
 
